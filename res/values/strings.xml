@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gospel</string>
+    <string name="matthew">Matthew</string>
+    <string name="mark">Mark</string>
+    <string name="luke">Luke</string>
+    <string name="john">John</string>
+    <string name="prev">Prevoius</string>
+    <string name="next">Next</string>
+
+    <array name="header_demo">
+        <item>The Birth of Christ</item>
+        <item>Jesus meant His Disciples</item>
+        <item>Jesus in Galilee</item>
+        <item>The Death of Christ</item>
+
+    </array>
+</resources>

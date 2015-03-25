@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/mat"
+          android:title="@string/matthew"
+            ></item>
+    <item android:id="@+id/mrk"
+          android:title="@string/mark"
+            ></item>
+    <item android:id="@+id/luk"
+          android:title="@string/luke"
+            ></item>
+    <item android:id="@+id/jhn"
+          android:title="@string/john"
+            ></item>
+</menu>
